@@ -10,4 +10,6 @@
 ## How to use the script (Windows):
 1. Close discord completely
 2. Press ``Win + R`` and type ``%appdata%\discord`` and open settings.json
-3. 
+3. Add the following line to the JSON object: ``"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true
+`` (Use code with caution.)
+4. Save the file and restart the Discord app.
