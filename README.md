@@ -1,4 +1,4 @@
-# Hopeless V2
+# *Hopeless V2*
 
 # Important educational disclaimer
 **This project is provided strictly for education, research, and experimentation. We do not endorse, encourage, or condone using it to manipulate Discord badges, activity history, account metrics, or any platform feature.**
@@ -14,3 +14,6 @@
 `` (Use code with caution.)
 4. Save the file and restart the Discord app.
 ## How to open the console
+1. Press ``Ctrl + Shift + I``, you should see the console on your right
+2. Paste the script into the console
+3. Enjoy using ***Hopeless V2***
