@@ -7,7 +7,7 @@
 
 **Use it only where you accept those risks. The authors and contributors are not responsible for bans, suspensions, lost data, purchases, progress, or any other consequence. By using, modifying, or distributing this project, you accept full responsibility for your actions.**
 
-## How to use the script (Windows):
+## How to use the script:
 1. Close discord completely
 2. Press ``Win + R`` and type ``%appdata%\discord`` and open settings.json
 3. Add the following line to the JSON object: ``"DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true
